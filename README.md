@@ -1,10 +1,10 @@
 # google-ad-looker-studio-demo
-A dashboard created to visualize major metrics for google ads account in google looker studio
+A dashboard created to visualize major metrics for google ads account using google looker studio.
 
 Google looker studio provides a connector for google ads account.
 Using this it is possible to create useful visualizations for free!
 
-This is a demo template for that, which we found useful in my current organization
+This is a demo template for that, which we found useful in Data Bid Machine.
 
 Important sections and features
 -------------------------------
