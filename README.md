@@ -7,7 +7,7 @@ Using this it is possible to create useful visualizations for free!
 This is a demo template for that, which we found useful in my current organization
 
 Important sections and features
-------------------
+-------------------------------
 1. Performance in account level and campaign level
 2. Performance in ad group level
 3. Keyword Heatmap
@@ -16,3 +16,7 @@ Important sections and features
 6. Day of week performance
 7. Competitiveness based on impression share
 8. Competitiveness based on Auction insight
+
+Link
+----
+https://lookerstudio.google.com/s/lpCoMNMFeQE
