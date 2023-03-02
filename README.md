@@ -20,3 +20,5 @@ Important sections and features
 Link
 ----
 https://lookerstudio.google.com/s/lpCoMNMFeQE
+
+[Example](DBM-Google_Ads_Overview_Report.pdf)
